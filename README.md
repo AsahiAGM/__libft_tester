@@ -1,5 +1,5 @@
 # libft tester
 ### run test
-'''bash
-source path/__libft_tester/libfttest.sh
-'''
+```bash
+source your-path/__libft_tester/libfttest.sh
+```
