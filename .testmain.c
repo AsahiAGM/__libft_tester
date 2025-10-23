@@ -3,7 +3,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <limits.h>
-#include "libft.h"
+#include "../libft/libft.h"
 
 void print_nums(const int *arr, int size)
 {

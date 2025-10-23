@@ -31,7 +31,7 @@ cat .version.txt
 echo
 echo
 
-cd ../$LIBFT_PATH
+cd $LIBFT_PATH
 echo "=== run test ===>"
 echo "## make re"
 make re
